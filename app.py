@@ -465,15 +465,3 @@ with st.expander("Validated Model Performance"):
         """
     )
 
-
-# =========================================================
-# RESPONSIBLE-USE NOTICE
-# =========================================================
-st.caption(
-    """
-    Academic demonstration only. Predictions should support customer
-    retention analysis and should not replace professional judgement or be
-    used as the sole basis for customer treatment, service restrictions or
-    financial decisions.
-    """
-)
